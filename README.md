@@ -13,7 +13,7 @@ A fully functional YouTube clone built with **React**, utilizing the **RapidAPI 
 - **React Router DOM**: For navigation.
 - **Axios**: For API requests.
 - **React Icons**: For UI enhancements.
-- **CSS**: For styling.
+- **Tailwind**: For styling.
 
 ## **Setup Instructions**
 1. Clone the repository:
